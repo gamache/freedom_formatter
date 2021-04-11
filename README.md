@@ -1,5 +1,13 @@
 # 🇺🇸🇺🇸🇺🇸 Freedom Formatter 🇺🇸🇺🇸🇺🇸
 
+## WARNING
+
+This repository is no longer maintained. Please use
+marcandre/freedom_formatter instead:
+https://github.com/marcandre/freedom_formatter
+
+## END WARNING
+
 A fork of Elixir's code formatter, with added freedom.
 [![Build Status](https://travis-ci.org/gamache/freedom_formatter.svg?branch=master)](https://travis-ci.org/gamache/freedom_formatter) [![Hex.pm Version](http://img.shields.io/hexpm/v/freedom_formatter.svg?style=flat)](https://hex.pm/packages/freedom_formatter)
 
